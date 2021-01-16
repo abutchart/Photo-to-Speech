@@ -1,0 +1,6 @@
+framework module Pods__V2__Photo_to_speech {
+  umbrella header "Pods-(V2)-Photo-to-speech-umbrella.h"
+
+  export *
+  module * { export * }
+}
